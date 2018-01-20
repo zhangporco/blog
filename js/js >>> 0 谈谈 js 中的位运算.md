@@ -5,7 +5,7 @@ start >>>= 0;
 ```
 这不就是无符号右移嘛,当时第一感觉是是为了取绝对值，后来发现并不是，尝试了多次之后，发现情况有点诡异啊，我们使用 **chrome** 调试工具运行一下 **js** 中的无符号右移 0 位。
 
-![chrome console](http://p2u26co2w.bkt.clouddn.com/WechatIMG1439.jpeg)
+![chrome console](http://p2u26co2w.bkt.clouddn.com/WechatIMG1440.jpeg)
 
 
 不仅是 **null** 无符号右移会变成 0 ，**js 中的其他非数值做此运算都会变成 0 。
