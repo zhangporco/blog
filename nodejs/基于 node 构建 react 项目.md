@@ -6,7 +6,7 @@
 
 首先我们先去 github 或者创建一个项目
 
-![node version](http://p2u26co2w.bkt.clouddn.com/node-npm-version.jpeg)
+![node version](http://p2u26co2w.bkt.clouddn.com/github-create-repository.jpeg)
 
 * 简述一下上述圈起来的部分都是做什么的。
 	1. 新建项目名
