@@ -77,3 +77,10 @@ libuv 事件循环的核心函数是 uv_run，**Node.js** 会一直调用 uv_run
 
 * 缺点
     * 不适合CPU密集型应用（模板渲染、压缩/解压缩、加/解密）；CPU密集型应用给 **Node.js** 带来的挑战主要是：由于JavaScript单线程的原因，如果有长时间运行的计算（比如大循坏），将会导致CPU时间片不能释放，使得后续I/O无法发起；解决方案：分解大型运算任务为多个小任务，使得运算能够适时释放，不阻塞I/O调用发起
+    
+### 资源
+本文素材来源自以下：
+- https://nodejs.org/en/
+- http://docs.libuv.org/en/v1.x/
+- https://github.com/yjhjstz/deep-into-node
+- http://taobaofed.org/blog/2015/10/29/deep-into-node-1/
