@@ -16,8 +16,3 @@
 
 ## Java
 - [java (byte)255 == -1 浅谈溢出](https://github.com/zhangporco/blog/blob/master/java/java%20(byte)255%20%E6%B5%85%E8%B0%88%E6%BA%A2%E5%87%BA.md)
-
-## 关于 Porco
-
-90后开发者，06年开始接触编程（Pascal），曾以为全世界的软件都是用 **Pascal** 写成的。大学时开始全面学习了计算机的理论知识。至此才算有了较为完整的软件世界观。
-工作之后，也一直处于不安分的状态，总是喜欢折腾点东西。
